@@ -1,0 +1,6 @@
+@ViajaMais_HostAddress = http://localhost:5237
+
+GET {{ViajaMais_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
